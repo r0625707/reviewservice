@@ -43,6 +43,11 @@
             <version>3.4</version>
             <type>jar</type>
         </dependency>
+        <dependency>
+            <groupId>io.fabric8</groupId>
+            <artifactId>docker-maven-plugin</artifactId>
+            <version>0.23.0</version>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
